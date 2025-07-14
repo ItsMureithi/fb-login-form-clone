@@ -31,5 +31,6 @@ This is a clone project built for educational purposes only. I do not own any tr
 
 ##  💡 Inspiration
 
--This is a clone project of the Facebook login page, built for learning purposes. 
--It's not affiliated with Facebook.
+- This is a clone project of the Facebook login page, built for learning purposes.
+   
+- It's not affiliated with Facebook.
