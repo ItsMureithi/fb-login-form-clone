@@ -1,0 +1,172 @@
+
+/* Reset */
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+/* Styling the body */
+body {
+  background-color: #f0f2f5;
+}
+
+/* Main container holding 2 sections , right and left */
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  padding: 20px;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+ /* Left section */
+.left-section {
+  max-width: 400px;
+}
+
+.left-section h1 {
+  color: #1877f2;
+  font-size: 60px;
+  margin-bottom: 20px;
+}
+
+.left-section p {
+  font-size: 22px;
+  color: #1c1e21;
+  text-align:justify;
+}
+
+
+/* css for Holding 2 divs in the right section */
+
+.small-cont{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    gap: 20px;
+}
+
+/* Css for checking flex direction row and column */
+
+/* .container img{
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid green;
+    margin: 15px;
+} */
+
+
+/* Css for right section */
+
+.right-section {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0,0,0,0.1);
+  max-width: 360px;
+  text-align: center;
+}
+/* styling the  input field in the login form */
+
+.login-box input {
+  width: 100%;
+  padding: 14px;
+  margin: 8px 0;
+  border: 1px solid #dddfe2;
+  border-radius: 6px;
+  font-size: 16px;
+  outline: none;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+
+.login-box input:hover{
+    border-color:#1877f2;
+}
+
+.login-box input:focus {
+    border-color: #1877f2;
+    box-shadow: 0 0 0 3px rgba(24, 119, 242, 0.2);
+}
+
+/* Styling the submit button in the form */
+.login-box button[type="submit"] {
+  width: 100%;
+  padding: 14px;
+  background-color: #1877f2;
+  color: white;
+  border:none;
+  font-size: 18px;
+  border-radius: 6px;
+  margin-top: 10px;
+  cursor: pointer;
+  font-weight: bold;
+}
+
+.login-box button {
+  transition: background-color 0.3s ease, transform 0.2s ease;
+  cursor: pointer;
+}
+
+.login-box button:hover{
+    background-color: #166fe5;
+    transform: scale(1.03);
+}
+
+
+/* styling the forgot */
+.login-box .forgot {
+  display: block;
+  color: #1877f2;
+  text-decoration: none;
+  margin: 15px 0;
+  font-size: 14px;
+  transition: color 0.3s ease, text-decoration 0.3s ease;
+}
+
+.login-box .forgot:hover {
+    color: #e53935;
+    text-decoration: underline;
+}
+
+
+
+/* styling the horizontal rows */
+.login-box hr {
+  border: 1px solid #dddfe2;
+  margin: 18px 0;
+}
+
+/* styling the create buttons */
+.create-btn {
+  background-color: #42b72a;
+  color: white;
+  padding: 14px;
+  border: none;
+  width: 70%;
+  border-radius: 6px;
+  font-size: 17px;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+/* This is a divison in the small container */
+.create-page {
+  font-size: 14px;
+  margin-top: 20px;
+  text-align: center;
+
+}
+
+
+/* Styling a hyper link */
+.create-page a {
+  font-weight: bold;
+  text-decoration:none;
+  color: black;
+}
