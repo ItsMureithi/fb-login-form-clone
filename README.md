@@ -10,3 +10,11 @@ This is a clone project built for educational purposes only. I do not own any tr
 <strong> login Interface </strong>
 
 <img width="1315" height="565" alt="Ui" src="https://github.com/user-attachments/assets/6ec052d3-67c0-4eca-ae5e-83dc1772b98f" />
+
+<strong> Features </strong>
+## 🔍 Features
+- Responsive layout
+- Hover effects for buttons and links
+- Custom form validation (with placeholders for login logic)
+- Interactive alert for "Forgot Password" link
+- Mobile-friendly design
