@@ -21,6 +21,7 @@ This is a clone project built for educational purposes only. I do not own any tr
 
 ## 📸 Preview
 <a href ="https://github.com/user-attachments/assets/6ec052d3-67c0-4eca-ae5e-83dc1772b98f"> </a>
+![Alt text](image-url)
 
 ## 🚀 Technologies Used
 
@@ -28,5 +29,7 @@ This is a clone project built for educational purposes only. I do not own any tr
 - CSS3 (Flexbox)
 - JavaScript (Vanilla)
 
-##💡 Inspiration
-This is a clone project of the Facebook login page, built for learning purposes. It's not affiliated with Facebook.
+##  💡 Inspiration
+
+-This is a clone project of the Facebook login page, built for learning purposes. 
+-It's not affiliated with Facebook.
