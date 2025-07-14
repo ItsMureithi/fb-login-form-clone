@@ -34,3 +34,9 @@ This is a clone project built for educational purposes only. I do not own any tr
 - This is a clone project of the Facebook login page, built for learning purposes.
    
 - It's not affiliated with Facebook.
+
+##❤️ Special Thanks ❤️ ❤️ ❤️
+Big thanks to:
+- Google (for helping me find the form inspiration)
+- My dedication 😄
+- Github (for granting me a chance to showcase my works)
