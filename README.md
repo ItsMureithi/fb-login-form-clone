@@ -19,10 +19,6 @@ This is a clone project built for educational purposes only. I do not own any tr
 - Interactive alert for "Forgot Password" link
 - Mobile-friendly design
 
-## 📸 Preview
-<a href ="https://github.com/user-attachments/assets/6ec052d3-67c0-4eca-ae5e-83dc1772b98f"> </a>
-![Alt text](image-url)
-
 ## 🚀 Technologies Used
 
 - HTML5
