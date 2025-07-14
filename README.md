@@ -35,7 +35,8 @@ This is a clone project built for educational purposes only. I do not own any tr
    
 - It's not affiliated with Facebook.
 
-##❤️ Special Thanks ❤️ ❤️ ❤️
+## ❤️ Special Thanks ❤️ ❤️ ❤️
+
 Big thanks to:
 - Google (for helping me find the form inspiration)
 - My dedication 😄
